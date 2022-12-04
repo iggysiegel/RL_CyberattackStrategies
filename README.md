@@ -38,17 +38,17 @@ Once the model has converged, you evaluate performance with Monte Carlo sampling
 ## Configuration
 All results were obtained by submitting cluster scripts to the [MIT SuperCloud](http://supercloud.mit.edu/).
 Required libraries:
--anaconda/2022a
--glob
--gym
--joblib
--matplotlib
--networkx
--numpy
--optuna
--pandas
--sb3-contrib
--scipy
--seaborn
--stable_baselines3
--statsmodels
+- anaconda/2022a
+- glob
+- gym
+- joblib
+- matplotlib
+- networkx
+- numpy
+- optuna
+- pandas
+- sb3-contrib
+- scipy
+- seaborn
+- stable_baselines3
+- statsmodels
