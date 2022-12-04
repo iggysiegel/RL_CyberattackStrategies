@@ -1,0 +1,5 @@
+Instructions for running Supercloud Tensorboard:
+https://supercloud.mit.edu/tensorboard
+
+Supercloud bash command:
+tensorboard --logdir=logs --host "$(hostname -s)" --port ${SLURM_STEP_RESV_PORTS}
